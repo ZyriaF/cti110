@@ -1,2 +1,4 @@
-# cti110
-CTI Repository
+# CTI 110 Repository
+Created for P2LAB1
+Farmer
+10/2/18
